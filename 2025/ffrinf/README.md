@@ -2,7 +2,7 @@ https://github.com/nflabs/FFRI-NFLabs-Cybersecurity-Challenge-2025-Public
 
 Binary ExploitationのSolve.py直貼り
 
-[Jump](./pwn/Jump/solve.py)
+[jump](./pwn/jump/solve.py)
 
 [Here_and_GOT_and_PLT](./pwn/Here_and_GOT_and_PLT/solve.py)
 
