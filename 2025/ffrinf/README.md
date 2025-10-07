@@ -6,4 +6,4 @@ Binary ExploitationのSolve.py直貼り
 
 [Here_and_GOT_and_PLT](./pwn/Here_and_GOT_and_PLT/solve.py)
 
-[all_rust_and_no_safe（解けてないけど途中経過まで）](./pwn/all_rust_and_no_safe/solve.py)
+[all_rust_and_no_safe（解けなかったけど途中経過まで）](./pwn/all_rust_and_no_safe/solve.py)
